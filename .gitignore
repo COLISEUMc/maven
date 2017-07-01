@@ -1,0 +1,7 @@
+.classpath
+.project
+classes
+maven-archiver
+surefire-reports
+test-classes
+maven-status
